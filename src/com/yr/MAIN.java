@@ -7,7 +7,7 @@ public class MAIN {
 		System.out.println(141);
 		System.out.println(555555);
 		System.out.println(11);
-		System.out.println(112);
+		System.out.println(111);
 		
 	}
 
